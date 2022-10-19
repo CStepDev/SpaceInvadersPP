@@ -1,0 +1,1 @@
+// All functionality is in GraphicsComponent.h, a bad idea.
